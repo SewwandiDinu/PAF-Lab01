@@ -1,0 +1,5 @@
+git add .
+git add --all
+git add *
+
+git add (file name)
